@@ -1,0 +1,22 @@
+2025-12-03 23:24:15 INFO  - Starting Browser...
+2025-12-03 23:24:17 INFO  - Browser maximized
+2025-12-03 23:24:24 INFO  - Opened OrangeHRM website
+2025-12-03 23:26:43 INFO  - Starting Browser...
+2025-12-03 23:26:45 INFO  - Browser maximized
+2025-12-03 23:26:52 INFO  - Opened OrangeHRM website
+2025-12-03 23:27:38 INFO  - Starting Browser...
+2025-12-03 23:27:39 INFO  - Browser maximized
+2025-12-03 23:27:44 INFO  - Opened OrangeHRM website
+2025-12-03 23:27:46 INFO  - Entered username
+2025-12-03 23:28:36 INFO  - Starting Browser...
+2025-12-03 23:28:38 INFO  - Browser maximized
+2025-12-03 23:28:45 INFO  - Opened OrangeHRM website
+2025-12-03 23:28:47 INFO  - Entered username
+2025-12-03 23:29:16 INFO  - Starting Browser...
+2025-12-03 23:29:17 INFO  - Browser maximized
+2025-12-03 23:29:23 INFO  - Opened OrangeHRM website
+2025-12-03 23:29:25 INFO  - Entered username
+2025-12-03 23:29:25 INFO  - Entered password
+2025-12-03 23:29:27 INFO  - Clicked login button
+2025-12-03 23:29:30 INFO  - Login test completed successfully!
+2025-12-03 23:29:30 INFO  - Browser closed
